@@ -120,7 +120,7 @@ public class DungeonMaze extends JavaPlugin {
 		// Show a startup message
 		PluginDescriptionFile pdfFile = getDescription();
 		log.info("[DungeonMaze] Dungeon Maze v" + pdfFile.getVersion() + " Started");
-		log.info("[DungeonMaze] Dungeon Maze made by Tim Visee - timvisee.com");
+		log.info("[DungeonMaze] Dungeon Maze made by MonsterFur for PrivatePvP!");
 
 		// Setup Metrics
 		setUpMetrics();
