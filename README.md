@@ -1,9 +1,6 @@
 DungeonMaze
 ===========
 
-Dungeon Maze is a world generator for Minecraft, it's a CraftBukkit plugin.<br />
-Dungeon Maze generates an infinite world with a lot of cool and strange stuff in it.<br />
-The world contains 7 layers of epicness, each layer does have different content.<br />
-All the layers contains a lot of Monsters, but also a lot of treasures.<br />
-It's a very cool map to explore with some friends.<br />
-Give it a try! Will you survive?<br />
+Dungeon Maze is a private plugin made for PrivatePvP (privatepvp.com:25599) by MonsterFur.<br />
+Do not redistribute unless allowed by the owner(MonsterFur).<br />
+Have fun with this advanced plugin!<br />
